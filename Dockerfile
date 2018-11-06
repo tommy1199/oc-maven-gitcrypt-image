@@ -1,4 +1,4 @@
-FROM ch4inl3ss/maven-gitcrypt
+FROM sselzer/maven-gitcrypt:3-jdk-11
 
 MAINTAINER Sascha Selzer sascha.selzer@gmail.com
 
